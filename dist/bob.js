@@ -1,1 +1,1 @@
-alert('bob');
+console.log('bob');
